@@ -7,3 +7,5 @@ build
 /captures
 .externalNativeBuild
 buck-out
+.buckd
+.okbuck
