@@ -9,3 +9,7 @@ build
 buck-out
 .buckd
 .okbuck
+.buckconfig
+.watchmanconfig
+BUCK
+buckw
